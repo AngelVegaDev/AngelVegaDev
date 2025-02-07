@@ -37,11 +37,37 @@
 
 <h2 align="center" >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
-<p align="center" >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,php,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,git,github,docker,eclipse,vscode,linux,ps&perline=12" />
+<p align="center">
+  <!-- HTML -->
+  <a href="https://es.wikipedia.org/wiki/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
+  </a>
+  <!-- CSS -->
+  <a href="https://es.wikipedia.org/wiki/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
+  </a>
+  <!-- JavaScript -->
+  <a href="https://es.wikipedia.org/wiki/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
+  </a>
+  <!-- PHP -->
+  <a href="https://es.wikipedia.org/wiki/PHP" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP"/>
+  </a>
+  <!-- Flutter -->
+  <a href="https://es.wikipedia.org/wiki/Flutter_(marco_de_desarrollo)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter"/>
+  </a>
+  <!-- Python -->
+  <a href="https://es.wikipedia.org/wiki/Python" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python"/>
+  </a>
+  <!-- Git -->
+  <a href="https://es.wikipedia.org/wiki/Git" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
   </a>
 </p>
+
 <br>
 <!-------------------------->
 <div id="proyectos">
