@@ -23,19 +23,19 @@
 <!--Intro start-->
 
 <p align="left">
-🎓SOY INGENIERO EN TECNOLOGIAS DE LA INFORMACION
+🎓 Soy Ingeniero en Tecnologías de la Información
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO  QUE TRASMITO MIS CONOCIMEITNOS  📚 A TRAVEZ DE REDES SOCIALES A BASE DE MIS ESTUDIOS 😵 
+Soy Creador de Contenido apasionado por compartir mis conocimientos a través de redes sociales, respaldados por un constante proceso de estudio y aprendizaje.
 
-💻 CUENTO CON EXPERENCIA EN LA AREA DE SISTEMAS, MANEJANDO: CCTV, LOCALIZACION GPS, INVENTARIO DE PC EN EXCEL, REDES LAN, MYSQL POSGRE, MANTENIMIENTO A PC Y IMPRESORAS.
+💻 Cuento con experiencia en el área de sistemas, manejando diversas tecnologías y herramientas como CCTV, localización GPS, inventarios de PC en Excel, redes LAN, bases de datos MySQL y PostgreSQL, y mantenimiento de PCs e impresoras.
 
-📝 SOY AUTODIDACTA  LO CUAL TAMBIEN TENGO CONOCIMIENTO EN LA AREA DE PROGRAMACION, ME GUSTA LAS PAGINAS WEB EN EL TEMA DE FRON TEND, Y SOBRE LE BACKEND UTILIZANDO APIS CON LOS LENGUAJES DE PYNTHON, JAVA, JAVASCRIPT☺️ TENGO DISPONIBILIDAD DE VIAJAR CON LA CONSTION DE TRABAJAR. 
+📝 Soy autodidacta y tengo sólidos conocimientos en programación. Me apasiona el desarrollo de páginas web, especialmente en el área de frontend, y también tengo experiencia en backend utilizando APIs con lenguajes como Python, Java, y JavaScript. Estoy disponible para trabajar y con disposición para viajar, comprometido con mi crecimiento profesional.
 
-🎮 FRAMEWORKS (ANGULAR, REACT, BOOTSTRAP, DJANGO)
+🎮 Frameworks que manejo: Angular, React, Bootstrap, Django.
 
-⚽ HOBBIES: ME GUSTA EL DEPOPRTE MTB DE BICICLETA DE MONTAÑA, ME GUSTA LEER LIBROS, ME GUSTA HACER VIDEOS DE INFORMACION, ESTUDIAR TEMAS DE INFORMATICA. 
+⚽ Hobbies: Disfruto del deporte MTB (bicicleta de montaña), leer libros, crear contenido en video, y estudiar temas relacionados con la informática.
 
-🏠 SOY MEXICANO, VIVO EN EL ESTAOD DE TLAXCALA. 
+🏠 Soy Mexicano y resido en el estado de Tlaxcala.
 
 📫 Contacto: **joseuptx@gmail.com**
 <!--Intro end-->
