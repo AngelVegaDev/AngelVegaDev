@@ -1,3 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+    .icono {
+      border: 2px solid white;  /* Borde blanco */
+      margin: 5px;              /* Separación entre los iconos */
+      padding: 5px;             /* Relleno adicional (si lo deseas) */
+      border-radius: 5px;       /* Bordes redondeados (opcional) */
+    }
+  </style>
+</head> 
+   <body>
 <h1 align="center">Hola 👋  soy Angel VegaDev / Ingeniero ✨ </h1> 
 
 <p align="center" >
@@ -128,3 +143,5 @@
 
 </p>        
 <!--- stats (end) -->
+</body>
+</html>
