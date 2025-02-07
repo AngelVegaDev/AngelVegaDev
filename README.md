@@ -28,7 +28,7 @@
 
 <h2 align="center" >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
-<p align="left">
+<p align="center" >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,cs,cpp,java,php,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,gtk,git,github,docker,eclipse,vscode,bash,linux,ps&perline=12" />
   </a>
