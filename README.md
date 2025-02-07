@@ -7,8 +7,6 @@
 </head> 
    <body>
 <h1 align="center">Hola 👋  soy Angel VegaDev / Ingeniero ✨ </h1> 
-
-
 <h2 align="center"> Encuentrame en mis redes sociales </h2> 
 <p align="center" >
    <a href="https://www.youtube.com/results?search_query=vega+adventure" target="_blank">
