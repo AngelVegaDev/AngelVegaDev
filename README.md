@@ -1,14 +1,16 @@
 <h1 align="center">Hola 👋  soy Angel VegaDev / Ingeniero ✨ </h1> 
-.center-content {
-      text-align: center;
-    } 
 
 <p class="center-content">
-    <a href="https://www.youtube.com/results?search_query=vega+adventure" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
+   <a href="https://www.youtube.com/results?search_query=vega+adventure" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
+</a>
     <a href="https://www.tiktok.com/@vegaadventures" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
     <a href="https://www.linkedin.com/in/jose-angel-tamalatzi-vega/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jose-angel-tamalatzi-vega" /></a>
     <a href="https://www.facebook.com/angelitho.veega/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="angelitho-veega" /></a>
     <a href="mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev" /></a>
+      .center-content {
+      text-align: center;
+    } 
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
