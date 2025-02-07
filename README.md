@@ -7,6 +7,7 @@
 </head> 
    <body>
 <h1 align="center">Hola 👋  soy Angel VegaDev / Ingeniero ✨ </h1> 
+     
 <h2 align="center"> Encuentrame en mis redes sociales </h2> 
 <p align="center" >
    <a href="https://www.youtube.com/results?search_query=vega+adventure" target="_blank">
@@ -22,12 +23,14 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN TECNOLOGIAS DE LA INFORMACION
+🎓SOY INGENIERO EN TECNOLOGIAS DE LA INFORMACION
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia, les dejo mis enlaces en el apartdo superio dar clic para visistar mi contendio. 
-
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software y en el area de sistemas
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador... y en un futuro quién sabe ☺️
+🎥 PEQUEÑO CREADOR DE CONTENIDO  QUE TRASMITO MIS CONOCIMEITNOS  📚 A TRAVEZ DE REDES SOCIALES A BASE DE MIS ESTUDIOS 😵 
+💻 CUENTO CON EXPERENCIA EN LA AREA DE SISTEMAS, MANEJANDO: CCTV, LOCALIZACION GPS, INVENTARIO DE PC EN EXCEL, REDES LAN, MYSQL POSGRE, MANTENIMIENTO A PC Y IMPRESORAS.
+📝 SOY AUTODIDACTA  LO CUAL TAMBIEN TENGO CONOCIMIENTO EN LA AREA DE PROGRAMACION, ME GUSTA LAS PAGINAS WEB EN EL TEMA DE FRON TEND, Y SOBRE LE BACKEND UTILIZANDO APIS CON LOS LENGUAJES DE PYNTHON, JAVA, JAVASCRIPT☺️ TENGO DISPONIBILIDAD DE VIAJAR CON LA CONSTION DE TRABAJAR. 
+🎮 FRAMEWORKS (ANGULAR, REACT, BOOTSTRAP, DJANGO)
+⚽ HOBBIES: ME GUSTA EL DEPOPRTE MTB DE BICICLETA DE MONTAÑA, ME GUSTA LEER LIBROS, ME GUSTA HACER VIDEOS DE INFORMACION, ESTUDIAR TEMAS DE INFORMATICA. 
+🏠 SOY MEXICANO, VIVO EN EL ESTAOD DE TLAXCALA. 
 
 📫 Contacto: **joseuptx@gmail.com**
 <!--Intro end-->
