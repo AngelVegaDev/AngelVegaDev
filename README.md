@@ -29,9 +29,11 @@ Soy Creador de Contenido apasionado por compartir mis conocimientos a través de
 
 💻 Cuento con experiencia en el área de sistemas, manejando diversas tecnologías y herramientas como CCTV, localización GPS, inventarios de PC en Excel, redes LAN, bases de datos MySQL y PostgreSQL, y mantenimiento de PCs e impresoras.
 
-📝 Soy autodidacta y tengo sólidos conocimientos en programación. Me apasiona el desarrollo de páginas web, especialmente en el área de frontend, y también tengo experiencia en backend utilizando APIs con lenguajes como Python, Java, y JavaScript. Estoy disponible para trabajar y con disposición para viajar, comprometido con mi crecimiento profesional.
+📝 Soy autodidacta y tengo sólidos conocimientos en programación. Me apasiona el desarrollo de páginas web, especialmente en el área de frontend, y también tengo experiencia en backend utilizando APIs con lenguajes como Python, Java, y JavaScript. 
 
 🎮 Frameworks que manejo: Angular, React, Bootstrap, Django.
+
+✈️ Estoy disponible para trabajar y con disposición para viajar, comprometido con mi crecimiento profesional.
 
 ⚽ Hobbies: Disfruto del deporte MTB (bicicleta de montaña), leer libros, crear contenido en video, y estudiar temas relacionados con la informática.
 
