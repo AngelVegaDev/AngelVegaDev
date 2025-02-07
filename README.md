@@ -1,9 +1,7 @@
 <h1 align="center">Hola 👋  soy Angel VegaDev / Ingeniero ✨ </h1> 
 
-<p class="center-content"  .center-content {
-   text-align: center;
-  } >
-   <a href="https://www.youtube.com/results?search_query=vega+adventure" target="_blank">
+<p text-align: center; >
+   <a href="https://www.youtube.com/results?search_query=vega+adventure" target="_blank"> visitar tisio
   <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
 </a>
     <a href="https://www.tiktok.com/@vegaadventures" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
