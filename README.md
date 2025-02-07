@@ -10,7 +10,7 @@
     <a href="mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev" /></a>
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2 align="center" >Sobre mi 😃</h2>
 <!--Intro start-->
 
 <p align="left">
@@ -26,7 +26,7 @@
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 align="center" >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -36,7 +36,7 @@
 <br>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2 align="center" >Algunos proyectos👨🏻‍💻</h2>
 
 <table align="left" >
 <tr border="none">
