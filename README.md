@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋  soy Angel VegaDev / Ingeniero ✨ </h1> 
 
 <p text-align: center; >
-   <a href="https://www.youtube.com/results?search_query=vega+adventure" target="_blank"> visitar tisio
+   <a href="https://www.youtube.com/results?search_query=vega+adventure" target="_blank">
   <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
 </a>
     <a href="https://www.tiktok.com/@vegaadventures" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
@@ -16,7 +16,7 @@
 <p align="left">
 🎓 INGENIERO EN TECNOLOGIAS DE LA INFORMACION
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia, les dejo mis enlaces en el apartdo superio dar clic para visistar mi contendio. 
 
 💻 unos cuántos años de experiencia en el proceso de desarrollo de software y en el area de sistemas
 📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador... y en un futuro quién sabe ☺️
