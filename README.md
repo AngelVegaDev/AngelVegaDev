@@ -39,7 +39,7 @@
 <!--tech stack icons-->
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,cs,cpp,java,php,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,gtk,git,github,docker,eclipse,vscode,bash,linux,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,php,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,git,github,docker,eclipse,vscode,linux,ps&perline=12" />
   </a>
 </p>
 <br>
