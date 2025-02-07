@@ -9,6 +9,7 @@
 <h1 align="center">Hola 👋  soy Angel VegaDev / Ingeniero ✨ </h1> 
 
 <p align="center" >
+<h2 align="center"> Encuentrame en mis redes sociales </h2> 
 
    <a href="https://www.youtube.com/results?search_query=vega+adventure" target="_blank">
   <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
