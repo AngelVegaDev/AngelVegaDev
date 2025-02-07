@@ -35,7 +35,7 @@
   </p>
 <br>
 
-<h2 align="center" >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 align="center" >Tecnologías conocidas👨🏻‍💻 y sus historias</h2>
 <!--tech stack icons-->
 <p align="center">
   <!-- Android Studio -->
