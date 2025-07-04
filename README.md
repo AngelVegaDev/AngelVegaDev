@@ -27,8 +27,6 @@
 <p align="left">
 🎓 Soy Ingeniero en Tecnologías de la Información
 
-Soy Creador de Contenido apasionado por compartir mis conocimientos a través de redes sociales, respaldados por un constante proceso de estudio y aprendizaje.
-
 💻 Cuento con experiencia en el área de sistemas, manejando diversas tecnologías y herramientas como CCTV, localización GPS, inventarios de PC en Excel, redes LAN, bases de datos MySQL y PostgreSQL, y mantenimiento de PCs e impresoras.
 
 📝 Soy autodidacta y tengo sólidos conocimientos en programación. Me apasiona el desarrollo de páginas web, especialmente en el área de frontend, y también tengo experiencia en backend utilizando APIs con lenguajes como Python, Java, y JavaScript. 
