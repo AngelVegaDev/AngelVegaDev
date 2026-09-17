@@ -9,15 +9,10 @@
 <h1 align="center">Hola 👋  soy Angel VegaDev / Ingeniero ✨ </h1> 
      
 <h2 align="center"> Encuentrame en mis redes sociales </h2> 
-<p align="center" >
-   <a href="https://www.youtube.com/results?search_query=vega+adventure" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
 </a>
     <a href="https://www.tiktok.com/@vegaadventuresmx?is_from_webapp=1&sender_device=pc" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
     <a href="https://www.linkedin.com/in/jose-angel-tamalatzi-vega/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jose-angel-tamalatzi-vega" /></a>
     <a href="https://www.facebook.com/angelitho.veega/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="angelitho-veega" /></a>
-   <a href="https://drive.google.com/file/d/1F0TVaol7GpL5lM4bsJN_WSTQTXuFmhDT/view?usp=drive_link" target="_blank">
-    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNgnX8MBpH2So9QS5YCAhcepkJnH91RBBJJw&s" alt="@unsimpledev" width="42" height="42" />
 </a>
   </p>
 <br>
@@ -107,10 +102,7 @@
   <a href="https://es.wikipedia.org/wiki/Docker" target="_blank" style="margin-right: 7mm;">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
   </a>
-  <!-- Eclipse -->
-  <a href="https://es.wikipedia.org/wiki/Eclipse_Inc." target="_blank" style="margin-right: 7mm;">
-    <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse"/>
-  </a>
+
   <!-- VS Code -->
   <a href="https://es.wikipedia.org/wiki/Visual_Studio_Code" target="_blank" style="margin-right: 7mm;">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
@@ -126,7 +118,7 @@
 </p>
 
 <br>
-<!-------------------------->
+<!----------PROXIMOS PROYECTOS---------------->
 <div id="proyectos">
 <h2 align="center" >Proyectos Proximamente👨🏻‍💻</h2>
 
