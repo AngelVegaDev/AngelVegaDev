@@ -6,6 +6,7 @@
     
 </head> 
    <body>
+     <h1 align="center">Hola, soy José Ángel Vega y este es mi perfil</h1>
 <h2 align="center"> Encuentrame en mis redes sociales </h2> 
 <div style="margin-top: 15px;">
 </a> <a href="https://www.tiktok.com/@vegaadventuresmx?is_from_webapp=1&sender_device=pc" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
